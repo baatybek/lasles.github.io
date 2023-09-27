@@ -1,0 +1,43 @@
+.many__content {
+    margin-top: 128px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.many__title {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 50px;
+    max-width: 383px;
+}
+
+.many__description {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 427px;
+}
+
+.many__list {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    gap: 15px;
+    list-style: none;
+    padding: 0px;
+}
+.many__item{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

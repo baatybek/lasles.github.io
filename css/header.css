@@ -1,0 +1,50 @@
+.header__content {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__list {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.header__btnn {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration-line: none;
+    display: flex;
+    align-items: center;
+   
+    
+}
+
+.header__right {
+    display: flex;
+    gap: 30px;
+}
+
+.header__btn {
+    padding: 13px 45px;
+    color: #F53855;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background: #FFF;
+    border-radius: 30px;
+    border: 2px solid #F53855;
+    text-decoration-line: none;
+}

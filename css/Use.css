@@ -1,0 +1,39 @@
+.Use {
+    padding: 67px 90px 67px 91px;
+    margin-top: 120px;
+}
+.Use__content{
+    display: flex;
+}
+.Use__btn {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 200px;
+    background-color: #fff;
+    flex: 1;
+    transition: .3s all ease;
+}
+.Use__btn:hover{
+    flex: 2;
+    background-color: rgb(207, 207, 207);
+}
+.Use__title-sub {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.Use__description {
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}

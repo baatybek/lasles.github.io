@@ -1,0 +1,55 @@
+.card {
+    margin-top: 87px;
+    position: absolute;
+    width: 80%;
+    right: 10%;
+    
+
+}
+
+.card__card {
+    padding: 17.5px 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    background: #FFF;
+}
+
+.card__title {
+    color: #0B132A;
+    font-family: Rubik;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 45px;
+    max-width: 371px;
+}
+
+.card__description {
+    margin-top: 20px;
+    color: #4F5665;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.card__btns{
+    display: flex;
+    align-items: center ;
+}
+.card__btn {
+    padding: 17.5px 65px;
+    text-decoration-line: none;
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    border-radius: 10px;
+    background: #F53838;
+    display: flex;
+    align-items: center ;
+}
